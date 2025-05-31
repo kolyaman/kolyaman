@@ -5,4 +5,4 @@ Welcome to my GitHub! I’m a junior developer and 3D enthusiast with skills in:
 - **3D Skills**: Junior-level 3D modeling, texturing 
 - **Tools**: Microsoft Word, PowerPoint, Excel, Blender  
 - **Experience**: Building C# apps, React components, and 3D models  
-Check out my projects below! 📩 Reach me at: manuilenko2006@gmail.com
+Check out my projects below! 📩 Reach me at: kn23-m.manuilenko@nubip.edu.ua
